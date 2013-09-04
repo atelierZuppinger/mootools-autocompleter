@@ -1,14 +1,18 @@
-/**
- * Observer - Observe formelements for changes
- *
- * - Additional code from clientside.cnet.com
- *
- * @version		1.1
- *
- * @license		MIT-style license
- * @author		Harald Kirschner <mail [at] digitarald.de>
- * @copyright	Author
- */
+/*
+---
+
+name: Observer
+
+license: MIT-style license
+
+provides: [Observer]
+
+author: Harald Kirschner <mail [at] digitarald.de>
+
+copyright: Author
+...
+*/
+
 var Observer = new Class({
 
 	Implements: [Options, Events],

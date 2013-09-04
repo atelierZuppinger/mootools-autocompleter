@@ -1,14 +1,21 @@
-/**
- * Autocompleter.Request
- *
- * http://digitarald.de/project/autocompleter/
- *
- * @version		1.1.2
- *
- * @license		MIT-style license
- * @author		Harald Kirschner <mail [at] digitarald.de>
- * @copyright	Author
- */
+/*
+---
+
+name: Autocompleter.Request
+
+license: MIT-style license
+
+requires: 
+  - Autocompleter
+
+provides: [Autocompleter.Request]
+
+author: Harald Kirschner <mail [at] digitarald.de>
+
+copyright: Author
+...
+*/
+
 
 Autocompleter.Request = new Class({
 

@@ -1,0 +1,12 @@
+name: Autocompleter
+author: fingerflow
+current: 1.0.0
+tags: [Form, Input]
+license: MIT
+description: Mootools autocompleter for packager
+
+sources:
+  - Source/Autocompleter.js
+  - Source/Autocompleter.Local.js
+  - Source/Autocompleter.Request.js
+  - Source/Observer.js
